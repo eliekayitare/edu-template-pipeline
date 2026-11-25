@@ -1,0 +1,19 @@
+# Structure of the synthetic multi-year education survey template.
+# All data produced from this spec is SYNTHETIC and for demonstration only.
+template_version: "2026.1"
+years: [2021, 2022, 2023, 2024, 2025]
+sexes: [Female, Male, Total]
+levels:
+  - {code: L1, name: Primary, ages: [6, 7, 8, 9, 10, 11]}
+  - {code: L2, name: Lower secondary, ages: [12, 13, 14]}
+  - {code: L3, name: Upper secondary, ages: [15, 16, 17]}
+# Single-age enrolment is collected for primary (used for age and age-cohort checks)
+age_detail_level: L1
+age_detail_ages: [5, 6, 7, 8, 9, 10, 11, 12, 13]
+metadata_fields:
+  - Country code
+  - Country name
+  - Reference year
+  - Reporting institution
+  - Contact email
+  - Data source

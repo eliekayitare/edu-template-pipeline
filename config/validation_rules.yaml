@@ -1,0 +1,45 @@
+# Validation rules are data, not code: edit thresholds here without touching Python.
+# severity: error = must be resolved with the country; warning = needs explanation.
+rules:
+  - id: META_REQUIRED
+    type: metadata_required
+    severity: error
+    description: All metadata fields must be filled in.
+  - id: NON_NEGATIVE
+    type: non_negative
+    severity: error
+    description: Enrolment and population values cannot be negative.
+  - id: SEX_SUM
+    type: sex_total
+    severity: error
+    tolerance: 0
+    description: Total must equal Female + Male.
+  - id: AGE_SUM
+    type: age_total
+    severity: error
+    tolerance: 0
+    description: Sum of single-age primary enrolment must equal total primary enrolment.
+  - id: YOY_CHANGE
+    type: year_on_year
+    severity: warning
+    max_relative_change: 0.25
+    description: Enrolment should not change by more than 25% from one year to the next.
+  - id: AGE_COHORT
+    type: age_cohort
+    severity: warning
+    min_ratio: 0.80
+    max_ratio: 1.15
+    description: Enrolment at age a+1 in year t+1 should be close to enrolment at age a in year t.
+  - id: GER_RANGE
+    type: indicator_range
+    indicator: GER
+    severity: warning
+    min: 0
+    max: 150
+    description: Gross enrolment ratio outside the plausible range.
+  - id: GER_RECALC
+    type: indicator_recalc
+    indicator: GER
+    severity: error
+    tolerance: 0.5
+    description: Reported GER differs from the GER recalculated from enrolment and population.

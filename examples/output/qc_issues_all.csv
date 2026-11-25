@@ -1,0 +1,16 @@
+country,rule_id,severity,cell,level,sex,age,year,value,expected,message
+XCA,META_REQUIRED,error,Metadata,,,,,,,Metadata field 'Contact email' is empty.
+XGR,NON_NEGATIVE,error,Population!D11,Upper secondary,Male,,2022.0,-49256.0,,Negative population value.
+XBR,SEX_SUM,error,Enrolment!E9,Lower secondary,Total,,2023.0,234739.0,233489.0,"Enrolment total (234,739) is not Female + Male (233,489)."
+XGR,SEX_SUM,error,Population!D12,Upper secondary,Total,,2022.0,98333.0,-179.0,"Population total (98,333) is not Female + Male (-179)."
+XDE,AGE_SUM,error,Enrolment!F6,Primary,Total,,2024.0,575243.0,571843.0,"Single-age primary enrolment sums to 575,243 but total primary enrolment is 571,843."
+XEV,YOY_CHANGE,warning,Enrolment!F10,Upper secondary,Female,,2024.0,77561.0,49803.0,Enrolment changed by +56% from 2023 to 2024.
+XEV,YOY_CHANGE,warning,Enrolment!G10,Upper secondary,Female,,2025.0,47550.0,77561.0,Enrolment changed by -39% from 2024 to 2025.
+XEV,YOY_CHANGE,warning,Enrolment!F12,Upper secondary,Total,,2024.0,128429.0,102083.0,Enrolment changed by +26% from 2023 to 2024.
+XHE,AGE_COHORT,warning,Enrolment by age!D7,,,8.0,2023.0,28900.0,44298.0,"Cohort ratio 0.65: age 7 in 2022 (44,298) vs age 8 in 2023 (28,900)."
+XHE,AGE_COHORT,warning,Enrolment by age!E8,,,9.0,2024.0,44816.0,28900.0,"Cohort ratio 1.55: age 8 in 2023 (28,900) vs age 9 in 2024 (44,816)."
+XHE,AGE_COHORT,warning,Enrolment by age!D9,,,10.0,2023.0,59115.0,43403.0,"Cohort ratio 1.36: age 9 in 2022 (43,403) vs age 10 in 2023 (59,115)."
+XHE,AGE_COHORT,warning,Enrolment by age!E10,,,11.0,2024.0,43892.0,59115.0,"Cohort ratio 0.74: age 10 in 2023 (59,115) vs age 11 in 2024 (43,892)."
+XFA,GER_RANGE,warning,Indicators!H6,Primary,Total,,2025.0,1075.0,,Reported GER 1075.0 is outside 0-150.
+XGR,GER_RANGE,warning,Indicators!E11,Upper secondary,Male,,2022.0,-59.0,,Reported GER -59.0 is outside 0-150.
+XFA,GER_RECALC,error,Indicators!H6,Primary,Total,,2025.0,1075.0,107.49,Reported GER 1075.0 but recalculated GER is 107.5.

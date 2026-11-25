@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "edupipe"
+version = "0.1.0"
+description = "Automate multi-year Excel survey templates: build, update, translate, validate, consolidate."
+requires-python = ">=3.10"
+dependencies = ["openpyxl>=3.1", "pandas>=2.0", "pyyaml>=6.0", "matplotlib>=3.7"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+app = ["streamlit>=1.30"]
+
+[project.scripts]
+edupipe = "edupipe.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

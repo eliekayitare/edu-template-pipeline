@@ -1,0 +1,541 @@
+country,level,sex,year,enrolment,population,ger_recalc,ger_reported,ger_cell,qc_status
+XAU,Primary,Female,2021,134051.0,134860.0,99.4,99.4,Indicators!D4,clean
+XAU,Primary,Female,2022,134792.0,135791.0,99.26,99.3,Indicators!E4,clean
+XAU,Primary,Female,2023,134451.0,136729.0,98.33,98.3,Indicators!F4,clean
+XAU,Primary,Female,2024,142756.0,137673.0,103.69,103.7,Indicators!G4,clean
+XAU,Primary,Female,2025,133862.0,138623.0,96.57,96.6,Indicators!H4,clean
+XAU,Primary,Male,2021,147875.0,151887.0,97.36,97.4,Indicators!D5,clean
+XAU,Primary,Male,2022,150004.0,152936.0,98.08,98.1,Indicators!E5,clean
+XAU,Primary,Male,2023,149494.0,153992.0,97.08,97.1,Indicators!F5,clean
+XAU,Primary,Male,2024,158740.0,155055.0,102.38,102.4,Indicators!G5,clean
+XAU,Primary,Male,2025,149311.0,156126.0,95.63,95.6,Indicators!H5,clean
+XAU,Primary,Total,2021,281926.0,286747.0,98.32,98.3,Indicators!D6,clean
+XAU,Primary,Total,2022,284796.0,288727.0,98.64,98.6,Indicators!E6,clean
+XAU,Primary,Total,2023,283945.0,290721.0,97.67,97.7,Indicators!F6,clean
+XAU,Primary,Total,2024,301496.0,292728.0,103.0,103.0,Indicators!G6,clean
+XAU,Primary,Total,2025,283173.0,294749.0,96.07,96.1,Indicators!H6,clean
+XAU,Lower secondary,Female,2021,113525.0,154583.0,73.44,73.4,Indicators!D7,clean
+XAU,Lower secondary,Female,2022,115040.0,155651.0,73.91,73.9,Indicators!E7,clean
+XAU,Lower secondary,Female,2023,119179.0,156726.0,76.04,76.0,Indicators!F7,clean
+XAU,Lower secondary,Female,2024,122332.0,157808.0,77.52,77.5,Indicators!G7,clean
+XAU,Lower secondary,Female,2025,117295.0,158897.0,73.82,73.8,Indicators!H7,clean
+XAU,Lower secondary,Male,2021,128649.0,173768.0,74.03,74.0,Indicators!D8,clean
+XAU,Lower secondary,Male,2022,127716.0,174967.0,72.99,73.0,Indicators!E8,clean
+XAU,Lower secondary,Male,2023,134689.0,176176.0,76.45,76.5,Indicators!F8,clean
+XAU,Lower secondary,Male,2024,138333.0,177392.0,77.98,78.0,Indicators!G8,clean
+XAU,Lower secondary,Male,2025,132415.0,178617.0,74.13,74.1,Indicators!H8,clean
+XAU,Lower secondary,Total,2021,242174.0,328351.0,73.75,73.8,Indicators!D9,clean
+XAU,Lower secondary,Total,2022,242756.0,330618.0,73.42,73.4,Indicators!E9,clean
+XAU,Lower secondary,Total,2023,253868.0,332902.0,76.26,76.3,Indicators!F9,clean
+XAU,Lower secondary,Total,2024,260665.0,335200.0,77.76,77.8,Indicators!G9,clean
+XAU,Lower secondary,Total,2025,249710.0,337514.0,73.99,74.0,Indicators!H9,clean
+XAU,Upper secondary,Female,2021,83610.0,151335.0,55.25,55.2,Indicators!D10,clean
+XAU,Upper secondary,Female,2022,82425.0,152380.0,54.09,54.1,Indicators!E10,clean
+XAU,Upper secondary,Female,2023,85493.0,153432.0,55.72,55.7,Indicators!F10,clean
+XAU,Upper secondary,Female,2024,84069.0,154492.0,54.42,54.4,Indicators!G10,clean
+XAU,Upper secondary,Female,2025,88149.0,155558.0,56.67,56.7,Indicators!H10,clean
+XAU,Upper secondary,Male,2021,86479.0,156273.0,55.34,55.3,Indicators!D11,clean
+XAU,Upper secondary,Male,2022,87023.0,157352.0,55.3,55.3,Indicators!E11,clean
+XAU,Upper secondary,Male,2023,88455.0,158439.0,55.83,55.8,Indicators!F11,clean
+XAU,Upper secondary,Male,2024,85253.0,159533.0,53.44,53.4,Indicators!G11,clean
+XAU,Upper secondary,Male,2025,90102.0,160634.0,56.09,56.1,Indicators!H11,clean
+XAU,Upper secondary,Total,2021,170089.0,307608.0,55.29,55.3,Indicators!D12,clean
+XAU,Upper secondary,Total,2022,169448.0,309732.0,54.71,54.7,Indicators!E12,clean
+XAU,Upper secondary,Total,2023,173948.0,311871.0,55.78,55.8,Indicators!F12,clean
+XAU,Upper secondary,Total,2024,169322.0,314025.0,53.92,53.9,Indicators!G12,clean
+XAU,Upper secondary,Total,2025,178251.0,316192.0,56.37,56.4,Indicators!H12,clean
+XBR,Primary,Female,2021,244327.0,231753.0,105.43,105.4,Indicators!D4,errors
+XBR,Primary,Female,2022,260631.0,234453.0,111.17,111.2,Indicators!E4,errors
+XBR,Primary,Female,2023,261710.0,237184.0,110.34,110.3,Indicators!F4,errors
+XBR,Primary,Female,2024,251483.0,239947.0,104.81,104.8,Indicators!G4,errors
+XBR,Primary,Female,2025,277578.0,242742.0,114.35,114.4,Indicators!H4,errors
+XBR,Primary,Male,2021,278665.0,258959.0,107.61,107.6,Indicators!D5,errors
+XBR,Primary,Male,2022,289316.0,261976.0,110.44,110.4,Indicators!E5,errors
+XBR,Primary,Male,2023,289692.0,265027.0,109.31,109.3,Indicators!F5,errors
+XBR,Primary,Male,2024,287292.0,268115.0,107.15,107.2,Indicators!G5,errors
+XBR,Primary,Male,2025,302514.0,271238.0,111.53,111.5,Indicators!H5,errors
+XBR,Primary,Total,2021,522992.0,490712.0,106.58,106.6,Indicators!D6,errors
+XBR,Primary,Total,2022,549947.0,496429.0,110.78,110.8,Indicators!E6,errors
+XBR,Primary,Total,2023,551402.0,502211.0,109.79,109.8,Indicators!F6,errors
+XBR,Primary,Total,2024,538775.0,508062.0,106.05,106.0,Indicators!G6,errors
+XBR,Primary,Total,2025,580092.0,513980.0,112.86,112.9,Indicators!H6,errors
+XBR,Lower secondary,Female,2021,113224.0,125490.0,90.23,90.2,Indicators!D7,errors
+XBR,Lower secondary,Female,2022,115086.0,126952.0,90.65,90.7,Indicators!E7,errors
+XBR,Lower secondary,Female,2023,111651.0,128431.0,86.93,86.9,Indicators!F7,errors
+XBR,Lower secondary,Female,2024,122173.0,129927.0,94.03,94.0,Indicators!G7,errors
+XBR,Lower secondary,Female,2025,112904.0,131440.0,85.9,85.9,Indicators!H7,errors
+XBR,Lower secondary,Male,2021,118198.0,133146.0,88.77,88.8,Indicators!D8,errors
+XBR,Lower secondary,Male,2022,121429.0,134697.0,90.15,90.1,Indicators!E8,errors
+XBR,Lower secondary,Male,2023,121838.0,136266.0,89.41,89.4,Indicators!F8,errors
+XBR,Lower secondary,Male,2024,130405.0,137854.0,94.6,94.6,Indicators!G8,errors
+XBR,Lower secondary,Male,2025,121218.0,139459.0,86.92,86.9,Indicators!H8,errors
+XBR,Lower secondary,Total,2021,231422.0,258636.0,89.48,89.5,Indicators!D9,errors
+XBR,Lower secondary,Total,2022,236515.0,261649.0,90.39,90.4,Indicators!E9,errors
+XBR,Lower secondary,Total,2023,234739.0,264697.0,88.68,88.7,Indicators!F9,errors
+XBR,Lower secondary,Total,2024,252578.0,267781.0,94.32,94.3,Indicators!G9,errors
+XBR,Lower secondary,Total,2025,234122.0,270899.0,86.42,86.4,Indicators!H9,errors
+XBR,Upper secondary,Female,2021,98449.0,195006.0,50.49,50.5,Indicators!D10,errors
+XBR,Upper secondary,Female,2022,101307.0,197278.0,51.35,51.4,Indicators!E10,errors
+XBR,Upper secondary,Female,2023,99171.0,199576.0,49.69,49.7,Indicators!F10,errors
+XBR,Upper secondary,Female,2024,103522.0,201901.0,51.27,51.3,Indicators!G10,errors
+XBR,Upper secondary,Female,2025,107898.0,204253.0,52.83,52.8,Indicators!H10,errors
+XBR,Upper secondary,Male,2021,107578.0,210519.0,51.1,51.1,Indicators!D11,errors
+XBR,Upper secondary,Male,2022,110233.0,212971.0,51.76,51.8,Indicators!E11,errors
+XBR,Upper secondary,Male,2023,106574.0,215452.0,49.47,49.5,Indicators!F11,errors
+XBR,Upper secondary,Male,2024,114196.0,217962.0,52.39,52.4,Indicators!G11,errors
+XBR,Upper secondary,Male,2025,117838.0,220501.0,53.44,53.4,Indicators!H11,errors
+XBR,Upper secondary,Total,2021,206027.0,405525.0,50.81,50.8,Indicators!D12,errors
+XBR,Upper secondary,Total,2022,211540.0,410249.0,51.56,51.6,Indicators!E12,errors
+XBR,Upper secondary,Total,2023,205745.0,415028.0,49.57,49.6,Indicators!F12,errors
+XBR,Upper secondary,Total,2024,217718.0,419863.0,51.85,51.9,Indicators!G12,errors
+XBR,Upper secondary,Total,2025,225736.0,424754.0,53.15,53.1,Indicators!H12,errors
+XCA,Primary,Female,2021,415584.0,414323.0,100.3,100.3,Indicators!D4,errors
+XCA,Primary,Female,2022,420263.0,418435.0,100.44,100.4,Indicators!E4,errors
+XCA,Primary,Female,2023,420626.0,422588.0,99.54,99.5,Indicators!F4,errors
+XCA,Primary,Female,2024,417401.0,426783.0,97.8,97.8,Indicators!G4,errors
+XCA,Primary,Female,2025,439677.0,431019.0,102.01,102.0,Indicators!H4,errors
+XCA,Primary,Male,2021,408650.0,405826.0,100.7,100.7,Indicators!D5,errors
+XCA,Primary,Male,2022,420912.0,409854.0,102.7,102.7,Indicators!E5,errors
+XCA,Primary,Male,2023,420175.0,413922.0,101.51,101.5,Indicators!F5,errors
+XCA,Primary,Male,2024,415760.0,418030.0,99.46,99.5,Indicators!G5,errors
+XCA,Primary,Male,2025,432004.0,422179.0,102.33,102.3,Indicators!H5,errors
+XCA,Primary,Total,2021,824234.0,820149.0,100.5,100.5,Indicators!D6,errors
+XCA,Primary,Total,2022,841175.0,828289.0,101.56,101.6,Indicators!E6,errors
+XCA,Primary,Total,2023,840801.0,836510.0,100.51,100.5,Indicators!F6,errors
+XCA,Primary,Total,2024,833161.0,844813.0,98.62,98.6,Indicators!G6,errors
+XCA,Primary,Total,2025,871681.0,853198.0,102.17,102.2,Indicators!H6,errors
+XCA,Lower secondary,Female,2021,64614.0,87388.0,73.94,73.9,Indicators!D7,errors
+XCA,Lower secondary,Female,2022,65013.0,88255.0,73.66,73.7,Indicators!E7,errors
+XCA,Lower secondary,Female,2023,64800.0,89131.0,72.7,72.7,Indicators!F7,errors
+XCA,Lower secondary,Female,2024,67575.0,90016.0,75.07,75.1,Indicators!G7,errors
+XCA,Lower secondary,Female,2025,66606.0,90909.0,73.27,73.3,Indicators!H7,errors
+XCA,Lower secondary,Male,2021,73220.0,97933.0,74.77,74.8,Indicators!D8,errors
+XCA,Lower secondary,Male,2022,73793.0,98905.0,74.61,74.6,Indicators!E8,errors
+XCA,Lower secondary,Male,2023,73473.0,99887.0,73.56,73.6,Indicators!F8,errors
+XCA,Lower secondary,Male,2024,76563.0,100879.0,75.9,75.9,Indicators!G8,errors
+XCA,Lower secondary,Male,2025,76033.0,101880.0,74.63,74.6,Indicators!H8,errors
+XCA,Lower secondary,Total,2021,137834.0,185321.0,74.38,74.4,Indicators!D9,errors
+XCA,Lower secondary,Total,2022,138806.0,187160.0,74.16,74.2,Indicators!E9,errors
+XCA,Lower secondary,Total,2023,138273.0,189018.0,73.15,73.2,Indicators!F9,errors
+XCA,Lower secondary,Total,2024,144138.0,190895.0,75.51,75.5,Indicators!G9,errors
+XCA,Lower secondary,Total,2025,142639.0,192789.0,73.99,74.0,Indicators!H9,errors
+XCA,Upper secondary,Female,2021,103324.0,163417.0,63.23,63.2,Indicators!D10,errors
+XCA,Upper secondary,Female,2022,104524.0,165039.0,63.33,63.3,Indicators!E10,errors
+XCA,Upper secondary,Female,2023,101959.0,166677.0,61.17,61.2,Indicators!F10,errors
+XCA,Upper secondary,Female,2024,103187.0,168332.0,61.3,61.3,Indicators!G10,errors
+XCA,Upper secondary,Female,2025,112958.0,170002.0,66.45,66.4,Indicators!H10,errors
+XCA,Upper secondary,Male,2021,104796.0,168163.0,62.32,62.3,Indicators!D11,errors
+XCA,Upper secondary,Male,2022,108267.0,169832.0,63.75,63.7,Indicators!E11,errors
+XCA,Upper secondary,Male,2023,103757.0,171518.0,60.49,60.5,Indicators!F11,errors
+XCA,Upper secondary,Male,2024,108388.0,173220.0,62.57,62.6,Indicators!G11,errors
+XCA,Upper secondary,Male,2025,112891.0,174939.0,64.53,64.5,Indicators!H11,errors
+XCA,Upper secondary,Total,2021,208120.0,331580.0,62.77,62.8,Indicators!D12,errors
+XCA,Upper secondary,Total,2022,212791.0,334871.0,63.54,63.5,Indicators!E12,errors
+XCA,Upper secondary,Total,2023,205716.0,338195.0,60.83,60.8,Indicators!F12,errors
+XCA,Upper secondary,Total,2024,211575.0,341552.0,61.95,61.9,Indicators!G12,errors
+XCA,Upper secondary,Total,2025,225849.0,344941.0,65.47,65.5,Indicators!H12,errors
+XDE,Primary,Female,2021,275787.0,260787.0,105.75,105.8,Indicators!D4,errors
+XDE,Primary,Female,2022,278088.0,263836.0,105.4,105.4,Indicators!E4,errors
+XDE,Primary,Female,2023,283930.0,266921.0,106.37,106.4,Indicators!F4,errors
+XDE,Primary,Female,2024,275275.0,270041.0,101.94,101.9,Indicators!G4,errors
+XDE,Primary,Female,2025,280626.0,273198.0,102.72,102.7,Indicators!H4,errors
+XDE,Primary,Male,2021,294276.0,279814.0,105.17,105.2,Indicators!D5,errors
+XDE,Primary,Male,2022,299145.0,283085.0,105.67,105.7,Indicators!E5,errors
+XDE,Primary,Male,2023,294938.0,286394.0,102.98,103.0,Indicators!F5,errors
+XDE,Primary,Male,2024,296568.0,289742.0,102.36,102.4,Indicators!G5,errors
+XDE,Primary,Male,2025,290845.0,293130.0,99.22,99.2,Indicators!H5,errors
+XDE,Primary,Total,2021,570063.0,540601.0,105.45,105.4,Indicators!D6,errors
+XDE,Primary,Total,2022,577233.0,546921.0,105.54,105.5,Indicators!E6,errors
+XDE,Primary,Total,2023,578868.0,553315.0,104.62,104.6,Indicators!F6,errors
+XDE,Primary,Total,2024,571843.0,559783.0,102.15,102.2,Indicators!G6,errors
+XDE,Primary,Total,2025,571471.0,566328.0,100.91,100.9,Indicators!H6,errors
+XDE,Lower secondary,Female,2021,81103.0,105095.0,77.17,77.2,Indicators!D7,errors
+XDE,Lower secondary,Female,2022,83325.0,106323.0,78.37,78.4,Indicators!E7,errors
+XDE,Lower secondary,Female,2023,82897.0,107566.0,77.07,77.1,Indicators!F7,errors
+XDE,Lower secondary,Female,2024,86213.0,108824.0,79.22,79.2,Indicators!G7,errors
+XDE,Lower secondary,Female,2025,87051.0,110096.0,79.07,79.1,Indicators!H7,errors
+XDE,Lower secondary,Male,2021,82393.0,106743.0,77.19,77.2,Indicators!D8,errors
+XDE,Lower secondary,Male,2022,84956.0,107991.0,78.67,78.7,Indicators!E8,errors
+XDE,Lower secondary,Male,2023,85209.0,109254.0,77.99,78.0,Indicators!F8,errors
+XDE,Lower secondary,Male,2024,87103.0,110531.0,78.8,78.8,Indicators!G8,errors
+XDE,Lower secondary,Male,2025,88938.0,111823.0,79.53,79.5,Indicators!H8,errors
+XDE,Lower secondary,Total,2021,163496.0,211838.0,77.18,77.2,Indicators!D9,errors
+XDE,Lower secondary,Total,2022,168281.0,214314.0,78.52,78.5,Indicators!E9,errors
+XDE,Lower secondary,Total,2023,168106.0,216820.0,77.53,77.5,Indicators!F9,errors
+XDE,Lower secondary,Total,2024,173316.0,219355.0,79.01,79.0,Indicators!G9,errors
+XDE,Lower secondary,Total,2025,175989.0,221919.0,79.3,79.3,Indicators!H9,errors
+XDE,Upper secondary,Female,2021,10021.0,23590.0,42.48,42.5,Indicators!D10,errors
+XDE,Upper secondary,Female,2022,10332.0,23866.0,43.29,43.3,Indicators!E10,errors
+XDE,Upper secondary,Female,2023,10357.0,24145.0,42.9,42.9,Indicators!F10,errors
+XDE,Upper secondary,Female,2024,10811.0,24427.0,44.26,44.3,Indicators!G10,errors
+XDE,Upper secondary,Female,2025,10549.0,24713.0,42.69,42.7,Indicators!H10,errors
+XDE,Upper secondary,Male,2021,11313.0,26060.0,43.41,43.4,Indicators!D11,errors
+XDE,Upper secondary,Male,2022,11422.0,26364.0,43.32,43.3,Indicators!E11,errors
+XDE,Upper secondary,Male,2023,11524.0,26673.0,43.2,43.2,Indicators!F11,errors
+XDE,Upper secondary,Male,2024,12154.0,26984.0,45.04,45.0,Indicators!G11,errors
+XDE,Upper secondary,Male,2025,11723.0,27300.0,42.94,42.9,Indicators!H11,errors
+XDE,Upper secondary,Total,2021,21334.0,49650.0,42.97,43.0,Indicators!D12,errors
+XDE,Upper secondary,Total,2022,21754.0,50230.0,43.31,43.3,Indicators!E12,errors
+XDE,Upper secondary,Total,2023,21881.0,50818.0,43.06,43.1,Indicators!F12,errors
+XDE,Upper secondary,Total,2024,22965.0,51411.0,44.67,44.7,Indicators!G12,errors
+XDE,Upper secondary,Total,2025,22272.0,52013.0,42.82,42.8,Indicators!H12,errors
+XEV,Primary,Female,2021,278651.0,284668.0,97.89,97.9,Indicators!D4,warnings
+XEV,Primary,Female,2022,283217.0,287049.0,98.67,98.7,Indicators!E4,warnings
+XEV,Primary,Female,2023,291590.0,289449.0,100.74,100.7,Indicators!F4,warnings
+XEV,Primary,Female,2024,285107.0,291869.0,97.68,97.7,Indicators!G4,warnings
+XEV,Primary,Female,2025,300864.0,294309.0,102.23,102.2,Indicators!H4,warnings
+XEV,Primary,Male,2021,275564.0,281224.0,97.99,98.0,Indicators!D5,warnings
+XEV,Primary,Male,2022,278916.0,283575.0,98.36,98.4,Indicators!E5,warnings
+XEV,Primary,Male,2023,290191.0,285946.0,101.48,101.5,Indicators!F5,warnings
+XEV,Primary,Male,2024,281162.0,288337.0,97.51,97.5,Indicators!G5,warnings
+XEV,Primary,Male,2025,289865.0,290748.0,99.7,99.7,Indicators!H5,warnings
+XEV,Primary,Total,2021,554215.0,565892.0,97.94,97.9,Indicators!D6,warnings
+XEV,Primary,Total,2022,562133.0,570624.0,98.51,98.5,Indicators!E6,warnings
+XEV,Primary,Total,2023,581781.0,575395.0,101.11,101.1,Indicators!F6,warnings
+XEV,Primary,Total,2024,566269.0,580206.0,97.6,97.6,Indicators!G6,warnings
+XEV,Primary,Total,2025,590729.0,585057.0,100.97,101.0,Indicators!H6,warnings
+XEV,Lower secondary,Female,2021,58611.0,67588.0,86.72,86.7,Indicators!D7,warnings
+XEV,Lower secondary,Female,2022,60229.0,68153.0,88.37,88.4,Indicators!E7,warnings
+XEV,Lower secondary,Female,2023,60816.0,68723.0,88.49,88.5,Indicators!F7,warnings
+XEV,Lower secondary,Female,2024,60878.0,69297.0,87.85,87.9,Indicators!G7,warnings
+XEV,Lower secondary,Female,2025,62490.0,69877.0,89.43,89.4,Indicators!H7,warnings
+XEV,Lower secondary,Male,2021,58399.0,66111.0,88.33,88.3,Indicators!D8,warnings
+XEV,Lower secondary,Male,2022,56864.0,66664.0,85.3,85.3,Indicators!E8,warnings
+XEV,Lower secondary,Male,2023,57945.0,67222.0,86.2,86.2,Indicators!F8,warnings
+XEV,Lower secondary,Male,2024,59050.0,67784.0,87.11,87.1,Indicators!G8,warnings
+XEV,Lower secondary,Male,2025,61091.0,68350.0,89.38,89.4,Indicators!H8,warnings
+XEV,Lower secondary,Total,2021,117010.0,133699.0,87.52,87.5,Indicators!D9,warnings
+XEV,Lower secondary,Total,2022,117093.0,134817.0,86.85,86.9,Indicators!E9,warnings
+XEV,Lower secondary,Total,2023,118761.0,135945.0,87.36,87.4,Indicators!F9,warnings
+XEV,Lower secondary,Total,2024,119928.0,137081.0,87.49,87.5,Indicators!G9,warnings
+XEV,Lower secondary,Total,2025,123581.0,138227.0,89.4,89.4,Indicators!H9,warnings
+XEV,Upper secondary,Female,2021,47081.0,103012.0,45.7,45.7,Indicators!D10,warnings
+XEV,Upper secondary,Female,2022,48282.0,103873.0,46.48,46.5,Indicators!E10,warnings
+XEV,Upper secondary,Female,2023,49803.0,104742.0,47.55,47.5,Indicators!F10,warnings
+XEV,Upper secondary,Female,2024,77561.0,105618.0,73.44,73.4,Indicators!G10,warnings
+XEV,Upper secondary,Female,2025,47550.0,106501.0,44.65,44.6,Indicators!H10,warnings
+XEV,Upper secondary,Male,2021,49292.0,106347.0,46.35,46.4,Indicators!D11,warnings
+XEV,Upper secondary,Male,2022,50142.0,107236.0,46.76,46.8,Indicators!E11,warnings
+XEV,Upper secondary,Male,2023,52280.0,108133.0,48.35,48.3,Indicators!F11,warnings
+XEV,Upper secondary,Male,2024,50868.0,109037.0,46.65,46.7,Indicators!G11,warnings
+XEV,Upper secondary,Male,2025,49854.0,109949.0,45.34,45.3,Indicators!H11,warnings
+XEV,Upper secondary,Total,2021,96373.0,209359.0,46.03,46.0,Indicators!D12,warnings
+XEV,Upper secondary,Total,2022,98424.0,211109.0,46.62,46.6,Indicators!E12,warnings
+XEV,Upper secondary,Total,2023,102083.0,212875.0,47.95,48.0,Indicators!F12,warnings
+XEV,Upper secondary,Total,2024,128429.0,214655.0,59.83,59.8,Indicators!G12,warnings
+XEV,Upper secondary,Total,2025,97404.0,216450.0,45.0,45.0,Indicators!H12,warnings
+XFA,Primary,Female,2021,179951.0,170376.0,105.62,105.6,Indicators!D4,errors
+XFA,Primary,Female,2022,179655.0,172520.0,104.14,104.1,Indicators!E4,errors
+XFA,Primary,Female,2023,185413.0,174691.0,106.14,106.1,Indicators!F4,errors
+XFA,Primary,Female,2024,184502.0,176889.0,104.3,104.3,Indicators!G4,errors
+XFA,Primary,Female,2025,191834.0,179115.0,107.1,107.1,Indicators!H4,errors
+XFA,Primary,Male,2021,173336.0,165282.0,104.87,104.9,Indicators!D5,errors
+XFA,Primary,Male,2022,170004.0,167361.0,101.58,101.6,Indicators!E5,errors
+XFA,Primary,Male,2023,180523.0,169467.0,106.52,106.5,Indicators!F5,errors
+XFA,Primary,Male,2024,181823.0,171599.0,105.96,106.0,Indicators!G5,errors
+XFA,Primary,Male,2025,187462.0,173759.0,107.89,107.9,Indicators!H5,errors
+XFA,Primary,Total,2021,353287.0,335658.0,105.25,105.3,Indicators!D6,errors
+XFA,Primary,Total,2022,349659.0,339881.0,102.88,102.9,Indicators!E6,errors
+XFA,Primary,Total,2023,365936.0,344158.0,106.33,106.3,Indicators!F6,errors
+XFA,Primary,Total,2024,366325.0,348488.0,105.12,105.1,Indicators!G6,errors
+XFA,Primary,Total,2025,379296.0,352874.0,107.49,1075.0,Indicators!H6,errors
+XFA,Lower secondary,Female,2021,108930.0,151663.0,71.82,71.8,Indicators!D7,errors
+XFA,Lower secondary,Female,2022,110454.0,153572.0,71.92,71.9,Indicators!E7,errors
+XFA,Lower secondary,Female,2023,109853.0,155504.0,70.64,70.6,Indicators!F7,errors
+XFA,Lower secondary,Female,2024,109876.0,157461.0,69.78,69.8,Indicators!G7,errors
+XFA,Lower secondary,Female,2025,113402.0,159442.0,71.12,71.1,Indicators!H7,errors
+XFA,Lower secondary,Male,2021,106449.0,153380.0,69.4,69.4,Indicators!D8,errors
+XFA,Lower secondary,Male,2022,111310.0,155309.0,71.67,71.7,Indicators!E8,errors
+XFA,Lower secondary,Male,2023,112069.0,157264.0,71.26,71.3,Indicators!F8,errors
+XFA,Lower secondary,Male,2024,112596.0,159242.0,70.71,70.7,Indicators!G8,errors
+XFA,Lower secondary,Male,2025,119173.0,161246.0,73.91,73.9,Indicators!H8,errors
+XFA,Lower secondary,Total,2021,215379.0,305043.0,70.61,70.6,Indicators!D9,errors
+XFA,Lower secondary,Total,2022,221764.0,308881.0,71.8,71.8,Indicators!E9,errors
+XFA,Lower secondary,Total,2023,221922.0,312768.0,70.95,71.0,Indicators!F9,errors
+XFA,Lower secondary,Total,2024,222472.0,316703.0,70.25,70.2,Indicators!G9,errors
+XFA,Lower secondary,Total,2025,232575.0,320688.0,72.52,72.5,Indicators!H9,errors
+XFA,Upper secondary,Female,2021,85333.0,169446.0,50.36,50.4,Indicators!D10,errors
+XFA,Upper secondary,Female,2022,86851.0,171578.0,50.62,50.6,Indicators!E10,errors
+XFA,Upper secondary,Female,2023,88548.0,173737.0,50.97,51.0,Indicators!F10,errors
+XFA,Upper secondary,Female,2024,93625.0,175923.0,53.22,53.2,Indicators!G10,errors
+XFA,Upper secondary,Female,2025,90091.0,178137.0,50.57,50.6,Indicators!H10,errors
+XFA,Upper secondary,Male,2021,98204.0,190926.0,51.44,51.4,Indicators!D11,errors
+XFA,Upper secondary,Male,2022,97707.0,193328.0,50.54,50.5,Indicators!E11,errors
+XFA,Upper secondary,Male,2023,100876.0,195761.0,51.53,51.5,Indicators!F11,errors
+XFA,Upper secondary,Male,2024,106362.0,198224.0,53.66,53.7,Indicators!G11,errors
+XFA,Upper secondary,Male,2025,102819.0,200718.0,51.23,51.2,Indicators!H11,errors
+XFA,Upper secondary,Total,2021,183537.0,360372.0,50.93,50.9,Indicators!D12,errors
+XFA,Upper secondary,Total,2022,184558.0,364906.0,50.58,50.6,Indicators!E12,errors
+XFA,Upper secondary,Total,2023,189424.0,369498.0,51.27,51.3,Indicators!F12,errors
+XFA,Upper secondary,Total,2024,199987.0,374147.0,53.45,53.5,Indicators!G12,errors
+XFA,Upper secondary,Total,2025,192910.0,378855.0,50.92,50.9,Indicators!H12,errors
+XGR,Primary,Female,2021,245383.0,233632.0,105.03,105.0,Indicators!D4,errors
+XGR,Primary,Female,2022,246050.0,237979.0,103.39,103.4,Indicators!E4,errors
+XGR,Primary,Female,2023,260570.0,242407.0,107.49,107.5,Indicators!F4,errors
+XGR,Primary,Female,2024,262989.0,246918.0,106.51,106.5,Indicators!G4,errors
+XGR,Primary,Female,2025,266307.0,251512.0,105.88,105.9,Indicators!H4,errors
+XGR,Primary,Male,2021,270154.0,251547.0,107.4,107.4,Indicators!D5,errors
+XGR,Primary,Male,2022,271674.0,256227.0,106.03,106.0,Indicators!E5,errors
+XGR,Primary,Male,2023,276547.0,260995.0,105.96,106.0,Indicators!F5,errors
+XGR,Primary,Male,2024,283549.0,265851.0,106.66,106.7,Indicators!G5,errors
+XGR,Primary,Male,2025,279104.0,270797.0,103.07,103.1,Indicators!H5,errors
+XGR,Primary,Total,2021,515537.0,485179.0,106.26,106.3,Indicators!D6,errors
+XGR,Primary,Total,2022,517724.0,494206.0,104.76,104.8,Indicators!E6,errors
+XGR,Primary,Total,2023,537117.0,503402.0,106.7,106.7,Indicators!F6,errors
+XGR,Primary,Total,2024,546538.0,512769.0,106.59,106.6,Indicators!G6,errors
+XGR,Primary,Total,2025,545411.0,522309.0,104.42,104.4,Indicators!H6,errors
+XGR,Lower secondary,Female,2021,132828.0,170862.0,77.74,77.7,Indicators!D7,errors
+XGR,Lower secondary,Female,2022,139071.0,174041.0,79.91,79.9,Indicators!E7,errors
+XGR,Lower secondary,Female,2023,138075.0,177279.0,77.89,77.9,Indicators!F7,errors
+XGR,Lower secondary,Female,2024,138673.0,180578.0,76.79,76.8,Indicators!G7,errors
+XGR,Lower secondary,Female,2025,143318.0,183938.0,77.92,77.9,Indicators!H7,errors
+XGR,Lower secondary,Male,2021,138976.0,178664.0,77.79,77.8,Indicators!D8,errors
+XGR,Lower secondary,Male,2022,146380.0,181988.0,80.43,80.4,Indicators!E8,errors
+XGR,Lower secondary,Male,2023,142940.0,185375.0,77.11,77.1,Indicators!F8,errors
+XGR,Lower secondary,Male,2024,142467.0,188824.0,75.45,75.4,Indicators!G8,errors
+XGR,Lower secondary,Male,2025,152864.0,192337.0,79.48,79.5,Indicators!H8,errors
+XGR,Lower secondary,Total,2021,271804.0,349526.0,77.76,77.8,Indicators!D9,errors
+XGR,Lower secondary,Total,2022,285451.0,356029.0,80.18,80.2,Indicators!E9,errors
+XGR,Lower secondary,Total,2023,281015.0,362654.0,77.49,77.5,Indicators!F9,errors
+XGR,Lower secondary,Total,2024,281140.0,369402.0,76.11,76.1,Indicators!G9,errors
+XGR,Lower secondary,Total,2025,296182.0,376275.0,78.71,78.7,Indicators!H9,errors
+XGR,Upper secondary,Female,2021,28089.0,48180.0,58.3,58.3,Indicators!D10,errors
+XGR,Upper secondary,Female,2022,29151.0,49077.0,59.4,59.4,Indicators!E10,errors
+XGR,Upper secondary,Female,2023,28958.0,49990.0,57.93,57.9,Indicators!F10,errors
+XGR,Upper secondary,Female,2024,30849.0,50920.0,60.58,60.6,Indicators!G10,errors
+XGR,Upper secondary,Female,2025,31369.0,51868.0,60.48,60.5,Indicators!H10,errors
+XGR,Upper secondary,Male,2021,28875.0,48357.0,59.71,59.7,Indicators!D11,errors
+XGR,Upper secondary,Male,2022,29040.0,-49256.0,,-59.0,Indicators!E11,errors
+XGR,Upper secondary,Male,2023,28871.0,50173.0,57.54,57.5,Indicators!F11,errors
+XGR,Upper secondary,Male,2024,30386.0,51106.0,59.46,59.5,Indicators!G11,errors
+XGR,Upper secondary,Male,2025,31015.0,52057.0,59.58,59.6,Indicators!H11,errors
+XGR,Upper secondary,Total,2021,56964.0,96537.0,59.01,59.0,Indicators!D12,errors
+XGR,Upper secondary,Total,2022,58191.0,98333.0,59.18,59.2,Indicators!E12,errors
+XGR,Upper secondary,Total,2023,57829.0,100163.0,57.73,57.7,Indicators!F12,errors
+XGR,Upper secondary,Total,2024,61235.0,102026.0,60.02,60.0,Indicators!G12,errors
+XGR,Upper secondary,Total,2025,62384.0,103925.0,60.03,60.0,Indicators!H12,errors
+XHE,Primary,Female,2021,124266.0,117604.0,105.66,105.7,Indicators!D4,warnings
+XHE,Primary,Female,2022,127174.0,119470.0,106.45,106.4,Indicators!E4,warnings
+XHE,Primary,Female,2023,128096.0,121366.0,105.55,105.5,Indicators!F4,warnings
+XHE,Primary,Female,2024,133591.0,123291.0,108.35,108.4,Indicators!G4,warnings
+XHE,Primary,Female,2025,132426.0,125247.0,105.73,105.7,Indicators!H4,warnings
+XHE,Primary,Male,2021,130752.0,126521.0,103.34,103.3,Indicators!D5,warnings
+XHE,Primary,Male,2022,138172.0,128528.0,107.5,107.5,Indicators!E5,warnings
+XHE,Primary,Male,2023,140944.0,130567.0,107.95,107.9,Indicators!F5,warnings
+XHE,Primary,Male,2024,140390.0,132638.0,105.84,105.8,Indicators!G5,warnings
+XHE,Primary,Male,2025,141601.0,134742.0,105.09,105.1,Indicators!H5,warnings
+XHE,Primary,Total,2021,255018.0,244125.0,104.46,104.5,Indicators!D6,warnings
+XHE,Primary,Total,2022,265346.0,247998.0,107.0,107.0,Indicators!E6,warnings
+XHE,Primary,Total,2023,269040.0,251933.0,106.79,106.8,Indicators!F6,warnings
+XHE,Primary,Total,2024,273981.0,255929.0,107.05,107.1,Indicators!G6,warnings
+XHE,Primary,Total,2025,274027.0,259989.0,105.4,105.4,Indicators!H6,warnings
+XHE,Lower secondary,Female,2021,102536.0,138699.0,73.93,73.9,Indicators!D7,warnings
+XHE,Lower secondary,Female,2022,104452.0,140899.0,74.13,74.1,Indicators!E7,warnings
+XHE,Lower secondary,Female,2023,104502.0,143134.0,73.01,73.0,Indicators!F7,warnings
+XHE,Lower secondary,Female,2024,104831.0,145405.0,72.1,72.1,Indicators!G7,warnings
+XHE,Lower secondary,Female,2025,107846.0,147712.0,73.01,73.0,Indicators!H7,warnings
+XHE,Lower secondary,Male,2021,102203.0,141368.0,72.3,72.3,Indicators!D8,warnings
+XHE,Lower secondary,Male,2022,104003.0,143611.0,72.42,72.4,Indicators!E8,warnings
+XHE,Lower secondary,Male,2023,103267.0,145890.0,70.78,70.8,Indicators!F8,warnings
+XHE,Lower secondary,Male,2024,107347.0,148204.0,72.43,72.4,Indicators!G8,warnings
+XHE,Lower secondary,Male,2025,110738.0,150555.0,73.55,73.6,Indicators!H8,warnings
+XHE,Lower secondary,Total,2021,204739.0,280067.0,73.1,73.1,Indicators!D9,warnings
+XHE,Lower secondary,Total,2022,208455.0,284510.0,73.27,73.3,Indicators!E9,warnings
+XHE,Lower secondary,Total,2023,207769.0,289024.0,71.89,71.9,Indicators!F9,warnings
+XHE,Lower secondary,Total,2024,212178.0,293609.0,72.27,72.3,Indicators!G9,warnings
+XHE,Lower secondary,Total,2025,218584.0,298267.0,73.28,73.3,Indicators!H9,warnings
+XHE,Upper secondary,Female,2021,78382.0,140042.0,55.97,56.0,Indicators!D10,warnings
+XHE,Upper secondary,Female,2022,80494.0,142263.0,56.58,56.6,Indicators!E10,warnings
+XHE,Upper secondary,Female,2023,77677.0,144520.0,53.75,53.7,Indicators!F10,warnings
+XHE,Upper secondary,Female,2024,80679.0,146813.0,54.95,55.0,Indicators!G10,warnings
+XHE,Upper secondary,Female,2025,79326.0,149142.0,53.19,53.2,Indicators!H10,warnings
+XHE,Upper secondary,Male,2021,80766.0,143775.0,56.18,56.2,Indicators!D11,warnings
+XHE,Upper secondary,Male,2022,82796.0,146056.0,56.69,56.7,Indicators!E11,warnings
+XHE,Upper secondary,Male,2023,82144.0,148373.0,55.36,55.4,Indicators!F11,warnings
+XHE,Upper secondary,Male,2024,81679.0,150727.0,54.19,54.2,Indicators!G11,warnings
+XHE,Upper secondary,Male,2025,82356.0,153119.0,53.79,53.8,Indicators!H11,warnings
+XHE,Upper secondary,Total,2021,159148.0,283817.0,56.07,56.1,Indicators!D12,warnings
+XHE,Upper secondary,Total,2022,163290.0,288319.0,56.64,56.6,Indicators!E12,warnings
+XHE,Upper secondary,Total,2023,159821.0,292893.0,54.57,54.6,Indicators!F12,warnings
+XHE,Upper secondary,Total,2024,162358.0,297540.0,54.57,54.6,Indicators!G12,warnings
+XHE,Upper secondary,Total,2025,161682.0,302261.0,53.49,53.5,Indicators!H12,warnings
+XIS,Primary,Female,2021,231047.0,217129.0,106.41,106.4,Indicators!D4,clean
+XIS,Primary,Female,2022,237037.0,220155.0,107.67,107.7,Indicators!E4,clean
+XIS,Primary,Female,2023,240423.0,223223.0,107.71,107.7,Indicators!F4,clean
+XIS,Primary,Female,2024,248864.0,226334.0,109.95,110.0,Indicators!G4,clean
+XIS,Primary,Female,2025,250861.0,229489.0,109.31,109.3,Indicators!H4,clean
+XIS,Primary,Male,2021,242006.0,228122.0,106.09,106.1,Indicators!D5,clean
+XIS,Primary,Male,2022,248956.0,231302.0,107.63,107.6,Indicators!E5,clean
+XIS,Primary,Male,2023,256611.0,234525.0,109.42,109.4,Indicators!F5,clean
+XIS,Primary,Male,2024,267263.0,237794.0,112.39,112.4,Indicators!G5,clean
+XIS,Primary,Male,2025,260178.0,241108.0,107.91,107.9,Indicators!H5,clean
+XIS,Primary,Total,2021,473053.0,445251.0,106.24,106.2,Indicators!D6,clean
+XIS,Primary,Total,2022,485993.0,451457.0,107.65,107.6,Indicators!E6,clean
+XIS,Primary,Total,2023,497034.0,457748.0,108.58,108.6,Indicators!F6,clean
+XIS,Primary,Total,2024,516127.0,464128.0,111.2,111.2,Indicators!G6,clean
+XIS,Primary,Total,2025,511039.0,470597.0,108.59,108.6,Indicators!H6,clean
+XIS,Lower secondary,Female,2021,174174.0,216207.0,80.56,80.6,Indicators!D7,clean
+XIS,Lower secondary,Female,2022,179441.0,219220.0,81.85,81.9,Indicators!E7,clean
+XIS,Lower secondary,Female,2023,174538.0,222276.0,78.52,78.5,Indicators!F7,clean
+XIS,Lower secondary,Female,2024,177489.0,225373.0,78.75,78.8,Indicators!G7,clean
+XIS,Lower secondary,Female,2025,182956.0,228514.0,80.06,80.1,Indicators!H7,clean
+XIS,Lower secondary,Male,2021,186844.0,231442.0,80.73,80.7,Indicators!D8,clean
+XIS,Lower secondary,Male,2022,192117.0,234668.0,81.87,81.9,Indicators!E8,clean
+XIS,Lower secondary,Male,2023,184225.0,237938.0,77.43,77.4,Indicators!F8,clean
+XIS,Lower secondary,Male,2024,187427.0,241255.0,77.69,77.7,Indicators!G8,clean
+XIS,Lower secondary,Male,2025,200684.0,244617.0,82.04,82.0,Indicators!H8,clean
+XIS,Lower secondary,Total,2021,361018.0,447649.0,80.65,80.6,Indicators!D9,clean
+XIS,Lower secondary,Total,2022,371558.0,453888.0,81.86,81.9,Indicators!E9,clean
+XIS,Lower secondary,Total,2023,358763.0,460214.0,77.96,78.0,Indicators!F9,clean
+XIS,Lower secondary,Total,2024,364916.0,466628.0,78.2,78.2,Indicators!G9,clean
+XIS,Lower secondary,Total,2025,383640.0,473131.0,81.09,81.1,Indicators!H9,clean
+XIS,Upper secondary,Female,2021,29138.0,66732.0,43.66,43.7,Indicators!D10,clean
+XIS,Upper secondary,Female,2022,30461.0,67662.0,45.02,45.0,Indicators!E10,clean
+XIS,Upper secondary,Female,2023,30998.0,68605.0,45.18,45.2,Indicators!F10,clean
+XIS,Upper secondary,Female,2024,31680.0,69561.0,45.54,45.5,Indicators!G10,clean
+XIS,Upper secondary,Female,2025,30782.0,70530.0,43.64,43.6,Indicators!H10,clean
+XIS,Upper secondary,Male,2021,29892.0,67971.0,43.98,44.0,Indicators!D11,clean
+XIS,Upper secondary,Male,2022,30691.0,68919.0,44.53,44.5,Indicators!E11,clean
+XIS,Upper secondary,Male,2023,32038.0,69879.0,45.85,45.8,Indicators!F11,clean
+XIS,Upper secondary,Male,2024,32179.0,70853.0,45.42,45.4,Indicators!G11,clean
+XIS,Upper secondary,Male,2025,30856.0,71841.0,42.95,43.0,Indicators!H11,clean
+XIS,Upper secondary,Total,2021,59030.0,134703.0,43.82,43.8,Indicators!D12,clean
+XIS,Upper secondary,Total,2022,61152.0,136581.0,44.77,44.8,Indicators!E12,clean
+XIS,Upper secondary,Total,2023,63036.0,138484.0,45.52,45.5,Indicators!F12,clean
+XIS,Upper secondary,Total,2024,63859.0,140414.0,45.48,45.5,Indicators!G12,clean
+XIS,Upper secondary,Total,2025,61638.0,142371.0,43.29,43.3,Indicators!H12,clean
+XJO,Primary,Female,2021,399690.0,384259.0,104.02,104.0,Indicators!D4,clean
+XJO,Primary,Female,2022,405968.0,386950.0,104.91,104.9,Indicators!E4,clean
+XJO,Primary,Female,2023,408860.0,389659.0,104.93,104.9,Indicators!F4,clean
+XJO,Primary,Female,2024,387390.0,392388.0,98.73,98.7,Indicators!G4,clean
+XJO,Primary,Female,2025,414817.0,395135.0,104.98,105.0,Indicators!H4,clean
+XJO,Primary,Male,2021,436819.0,421885.0,103.54,103.5,Indicators!D5,clean
+XJO,Primary,Male,2022,435091.0,424839.0,102.41,102.4,Indicators!E5,clean
+XJO,Primary,Male,2023,449615.0,427814.0,105.1,105.1,Indicators!F5,clean
+XJO,Primary,Male,2024,433425.0,430810.0,100.61,100.6,Indicators!G5,clean
+XJO,Primary,Male,2025,451330.0,433827.0,104.03,104.0,Indicators!H5,clean
+XJO,Primary,Total,2021,836509.0,806144.0,103.77,103.8,Indicators!D6,clean
+XJO,Primary,Total,2022,841059.0,811789.0,103.61,103.6,Indicators!E6,clean
+XJO,Primary,Total,2023,858475.0,817473.0,105.02,105.0,Indicators!F6,clean
+XJO,Primary,Total,2024,820815.0,823198.0,99.71,99.7,Indicators!G6,clean
+XJO,Primary,Total,2025,866147.0,828962.0,104.49,104.5,Indicators!H6,clean
+XJO,Lower secondary,Female,2021,41982.0,56801.0,73.91,73.9,Indicators!D7,clean
+XJO,Lower secondary,Female,2022,42502.0,57198.0,74.31,74.3,Indicators!E7,clean
+XJO,Lower secondary,Female,2023,44131.0,57599.0,76.62,76.6,Indicators!F7,clean
+XJO,Lower secondary,Female,2024,42692.0,58002.0,73.6,73.6,Indicators!G7,clean
+XJO,Lower secondary,Female,2025,44194.0,58409.0,75.66,75.7,Indicators!H7,clean
+XJO,Lower secondary,Male,2021,42766.0,58699.0,72.86,72.9,Indicators!D8,clean
+XJO,Lower secondary,Male,2022,43933.0,59110.0,74.32,74.3,Indicators!E8,clean
+XJO,Lower secondary,Male,2023,45277.0,59524.0,76.07,76.1,Indicators!F8,clean
+XJO,Lower secondary,Male,2024,43535.0,59941.0,72.63,72.6,Indicators!G8,clean
+XJO,Lower secondary,Male,2025,46095.0,60361.0,76.37,76.4,Indicators!H8,clean
+XJO,Lower secondary,Total,2021,84748.0,115500.0,73.37,73.4,Indicators!D9,clean
+XJO,Lower secondary,Total,2022,86435.0,116308.0,74.32,74.3,Indicators!E9,clean
+XJO,Lower secondary,Total,2023,89408.0,117123.0,76.34,76.3,Indicators!F9,clean
+XJO,Lower secondary,Total,2024,86227.0,117943.0,73.11,73.1,Indicators!G9,clean
+XJO,Lower secondary,Total,2025,90289.0,118770.0,76.02,76.0,Indicators!H9,clean
+XJO,Upper secondary,Female,2021,94973.0,208362.0,45.58,45.6,Indicators!D10,clean
+XJO,Upper secondary,Female,2022,97403.0,209821.0,46.42,46.4,Indicators!E10,clean
+XJO,Upper secondary,Female,2023,100977.0,211290.0,47.79,47.8,Indicators!F10,clean
+XJO,Upper secondary,Female,2024,94362.0,212770.0,44.35,44.3,Indicators!G10,clean
+XJO,Upper secondary,Female,2025,99570.0,214260.0,46.47,46.5,Indicators!H10,clean
+XJO,Upper secondary,Male,2021,97222.0,211200.0,46.03,46.0,Indicators!D11,clean
+XJO,Upper secondary,Male,2022,96851.0,212679.0,45.54,45.5,Indicators!E11,clean
+XJO,Upper secondary,Male,2023,99337.0,214168.0,46.38,46.4,Indicators!F11,clean
+XJO,Upper secondary,Male,2024,95732.0,215668.0,44.39,44.4,Indicators!G11,clean
+XJO,Upper secondary,Male,2025,101275.0,217178.0,46.63,46.6,Indicators!H11,clean
+XJO,Upper secondary,Total,2021,192195.0,419562.0,45.81,45.8,Indicators!D12,clean
+XJO,Upper secondary,Total,2022,194254.0,422500.0,45.98,46.0,Indicators!E12,clean
+XJO,Upper secondary,Total,2023,200314.0,425458.0,47.08,47.1,Indicators!F12,clean
+XJO,Upper secondary,Total,2024,190094.0,428438.0,44.37,44.4,Indicators!G12,clean
+XJO,Upper secondary,Total,2025,200845.0,431438.0,46.55,46.6,Indicators!H12,clean
+XKA,Primary,Female,2021,41659.0,40418.0,103.07,103.1,Indicators!D4,clean
+XKA,Primary,Female,2022,43129.0,41224.0,104.62,104.6,Indicators!E4,clean
+XKA,Primary,Female,2023,44279.0,42046.0,105.31,105.3,Indicators!F4,clean
+XKA,Primary,Female,2024,44249.0,42885.0,103.18,103.2,Indicators!G4,clean
+XKA,Primary,Female,2025,44247.0,43740.0,101.16,101.2,Indicators!H4,clean
+XKA,Primary,Male,2021,45875.0,44319.0,103.51,103.5,Indicators!D5,clean
+XKA,Primary,Male,2022,47414.0,45203.0,104.89,104.9,Indicators!E5,clean
+XKA,Primary,Male,2023,48700.0,46105.0,105.63,105.6,Indicators!F5,clean
+XKA,Primary,Male,2024,49493.0,47024.0,105.25,105.3,Indicators!G5,clean
+XKA,Primary,Male,2025,48753.0,47962.0,101.65,101.6,Indicators!H5,clean
+XKA,Primary,Total,2021,87534.0,84737.0,103.3,103.3,Indicators!D6,clean
+XKA,Primary,Total,2022,90543.0,86427.0,104.76,104.8,Indicators!E6,clean
+XKA,Primary,Total,2023,92979.0,88151.0,105.48,105.5,Indicators!F6,clean
+XKA,Primary,Total,2024,93742.0,89909.0,104.26,104.3,Indicators!G6,clean
+XKA,Primary,Total,2025,93000.0,91702.0,101.42,101.4,Indicators!H6,clean
+XKA,Lower secondary,Female,2021,29782.0,33852.0,87.98,88.0,Indicators!D7,clean
+XKA,Lower secondary,Female,2022,30983.0,34527.0,89.74,89.7,Indicators!E7,clean
+XKA,Lower secondary,Female,2023,31802.0,35216.0,90.31,90.3,Indicators!F7,clean
+XKA,Lower secondary,Female,2024,31800.0,35919.0,88.53,88.5,Indicators!G7,clean
+XKA,Lower secondary,Female,2025,33018.0,36635.0,90.13,90.1,Indicators!H7,clean
+XKA,Lower secondary,Male,2021,33319.0,37393.0,89.1,89.1,Indicators!D8,clean
+XKA,Lower secondary,Male,2022,34077.0,38139.0,89.35,89.3,Indicators!E8,clean
+XKA,Lower secondary,Male,2023,34732.0,38899.0,89.29,89.3,Indicators!F8,clean
+XKA,Lower secondary,Male,2024,35272.0,39675.0,88.9,88.9,Indicators!G8,clean
+XKA,Lower secondary,Male,2025,36685.0,40467.0,90.65,90.7,Indicators!H8,clean
+XKA,Lower secondary,Total,2021,63101.0,71245.0,88.57,88.6,Indicators!D9,clean
+XKA,Lower secondary,Total,2022,65060.0,72666.0,89.53,89.5,Indicators!E9,clean
+XKA,Lower secondary,Total,2023,66534.0,74115.0,89.77,89.8,Indicators!F9,clean
+XKA,Lower secondary,Total,2024,67072.0,75594.0,88.73,88.7,Indicators!G9,clean
+XKA,Lower secondary,Total,2025,69703.0,77102.0,90.4,90.4,Indicators!H9,clean
+XKA,Upper secondary,Female,2021,55113.0,111602.0,49.38,49.4,Indicators!D10,clean
+XKA,Upper secondary,Female,2022,56884.0,113828.0,49.97,50.0,Indicators!E10,clean
+XKA,Upper secondary,Female,2023,57751.0,116098.0,49.74,49.7,Indicators!F10,clean
+XKA,Upper secondary,Female,2024,56798.0,118414.0,47.97,48.0,Indicators!G10,clean
+XKA,Upper secondary,Female,2025,61101.0,120776.0,50.59,50.6,Indicators!H10,clean
+XKA,Upper secondary,Male,2021,58745.0,119558.0,49.14,49.1,Indicators!D11,clean
+XKA,Upper secondary,Male,2022,60607.0,121943.0,49.7,49.7,Indicators!E11,clean
+XKA,Upper secondary,Male,2023,60988.0,124375.0,49.04,49.0,Indicators!F11,clean
+XKA,Upper secondary,Male,2024,60832.0,126856.0,47.95,48.0,Indicators!G11,clean
+XKA,Upper secondary,Male,2025,65947.0,129387.0,50.97,51.0,Indicators!H11,clean
+XKA,Upper secondary,Total,2021,113858.0,231160.0,49.26,49.3,Indicators!D12,clean
+XKA,Upper secondary,Total,2022,117491.0,235771.0,49.83,49.8,Indicators!E12,clean
+XKA,Upper secondary,Total,2023,118739.0,240473.0,49.38,49.4,Indicators!F12,clean
+XKA,Upper secondary,Total,2024,117630.0,245270.0,47.96,48.0,Indicators!G12,clean
+XKA,Upper secondary,Total,2025,127048.0,250163.0,50.79,50.8,Indicators!H12,clean
+XLU,Primary,Female,2021,176446.0,165382.0,106.69,106.7,Indicators!D4,clean
+XLU,Primary,Female,2022,180691.0,167561.0,107.84,107.8,Indicators!E4,clean
+XLU,Primary,Female,2023,175546.0,169769.0,103.4,103.4,Indicators!F4,clean
+XLU,Primary,Female,2024,188082.0,172006.0,109.35,109.3,Indicators!G4,clean
+XLU,Primary,Female,2025,188004.0,174272.0,107.88,107.9,Indicators!H4,clean
+XLU,Primary,Male,2021,183890.0,175478.0,104.79,104.8,Indicators!D5,clean
+XLU,Primary,Male,2022,191956.0,177791.0,107.97,108.0,Indicators!E5,clean
+XLU,Primary,Male,2023,186220.0,180133.0,103.38,103.4,Indicators!F5,clean
+XLU,Primary,Male,2024,198744.0,182507.0,108.9,108.9,Indicators!G5,clean
+XLU,Primary,Male,2025,195262.0,184912.0,105.6,105.6,Indicators!H5,clean
+XLU,Primary,Total,2021,360336.0,340860.0,105.71,105.7,Indicators!D6,clean
+XLU,Primary,Total,2022,372647.0,345352.0,107.9,107.9,Indicators!E6,clean
+XLU,Primary,Total,2023,361766.0,349902.0,103.39,103.4,Indicators!F6,clean
+XLU,Primary,Total,2024,386826.0,354513.0,109.11,109.1,Indicators!G6,clean
+XLU,Primary,Total,2025,383266.0,359184.0,106.7,106.7,Indicators!H6,clean
+XLU,Lower secondary,Female,2021,180227.0,207553.0,86.83,86.8,Indicators!D7,clean
+XLU,Lower secondary,Female,2022,178062.0,210288.0,84.68,84.7,Indicators!E7,clean
+XLU,Lower secondary,Female,2023,184400.0,213059.0,86.55,86.5,Indicators!F7,clean
+XLU,Lower secondary,Female,2024,187831.0,215866.0,87.01,87.0,Indicators!G7,clean
+XLU,Lower secondary,Female,2025,185353.0,218711.0,84.75,84.7,Indicators!H7,clean
+XLU,Lower secondary,Male,2021,201433.0,232764.0,86.54,86.5,Indicators!D8,clean
+XLU,Lower secondary,Male,2022,198793.0,235831.0,84.29,84.3,Indicators!E8,clean
+XLU,Lower secondary,Male,2023,206528.0,238939.0,86.44,86.4,Indicators!F8,clean
+XLU,Lower secondary,Male,2024,213508.0,242087.0,88.19,88.2,Indicators!G8,clean
+XLU,Lower secondary,Male,2025,214669.0,245277.0,87.52,87.5,Indicators!H8,clean
+XLU,Lower secondary,Total,2021,381660.0,440317.0,86.68,86.7,Indicators!D9,clean
+XLU,Lower secondary,Total,2022,376855.0,446119.0,84.47,84.5,Indicators!E9,clean
+XLU,Lower secondary,Total,2023,390928.0,451998.0,86.49,86.5,Indicators!F9,clean
+XLU,Lower secondary,Total,2024,401339.0,457953.0,87.64,87.6,Indicators!G9,clean
+XLU,Lower secondary,Total,2025,400022.0,463988.0,86.21,86.2,Indicators!H9,clean
+XLU,Upper secondary,Female,2021,66662.0,162753.0,40.96,41.0,Indicators!D10,clean
+XLU,Upper secondary,Female,2022,66616.0,164897.0,40.4,40.4,Indicators!E10,clean
+XLU,Upper secondary,Female,2023,68958.0,167070.0,41.27,41.3,Indicators!F10,clean
+XLU,Upper secondary,Female,2024,67416.0,169272.0,39.83,39.8,Indicators!G10,clean
+XLU,Upper secondary,Female,2025,68339.0,171502.0,39.85,39.8,Indicators!H10,clean
+XLU,Upper secondary,Male,2021,71577.0,178969.0,39.99,40.0,Indicators!D11,clean
+XLU,Upper secondary,Male,2022,72163.0,181328.0,39.8,39.8,Indicators!E11,clean
+XLU,Upper secondary,Male,2023,76551.0,183717.0,41.67,41.7,Indicators!F11,clean
+XLU,Upper secondary,Male,2024,73575.0,186138.0,39.53,39.5,Indicators!G11,clean
+XLU,Upper secondary,Male,2025,72666.0,188590.0,38.53,38.5,Indicators!H11,clean
+XLU,Upper secondary,Total,2021,138239.0,341722.0,40.45,40.5,Indicators!D12,clean
+XLU,Upper secondary,Total,2022,138779.0,346225.0,40.08,40.1,Indicators!E12,clean
+XLU,Upper secondary,Total,2023,145509.0,350787.0,41.48,41.5,Indicators!F12,clean
+XLU,Upper secondary,Total,2024,140991.0,355410.0,39.67,39.7,Indicators!G12,clean
+XLU,Upper secondary,Total,2025,141005.0,360092.0,39.16,39.2,Indicators!H12,clean
